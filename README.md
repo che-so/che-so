@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/che._.so/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+
+![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=che-so&show_icons=true&theme=radical)
