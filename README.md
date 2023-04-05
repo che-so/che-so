@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/che._.so/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/%EC%84%9C%EC%97%B0-%EC%B1%84-ba1704266/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
 
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=che-so&show_icons=true&theme=github_dark)
