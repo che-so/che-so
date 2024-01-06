@@ -4,6 +4,7 @@
 2023 OpenSource Software Contribution Academy mentee
 <br>
 명지대학교 sw경진대회 우수상 수상
+<br>
 FOSSLight Hub 팀원으로 한국 IT 비즈니스 협회장상 수상
 
 <!--
