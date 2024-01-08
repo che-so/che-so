@@ -1,4 +1,4 @@
-### welcome! 설렘과 열정으로 코딩하는 개발자, 채서연입니다
+### 설렘과 열정으로 코딩하는 개발자, 채서연입니다
 명지대학교 인문캠퍼스 멋쟁이사자처럼 11기 대표
 <br>
 2023 OpenSource Software Contribution Academy mentee
